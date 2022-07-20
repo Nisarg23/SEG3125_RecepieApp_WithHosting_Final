@@ -31,7 +31,7 @@ const Login = () => {
     //********Handling validation messages yourself*******/
     validate={values => {
       let errors = {};
-      if (values.email != "admin@admin.com"){
+      if (values.email !== "admin@admin.com"){
         errors.email = "wrong email";
       }
       else if (!values.email) {
@@ -40,8 +40,8 @@ const Login = () => {
         errors.email = "Invalid email address";
       }
 
-      const passwordRegex = /(?=.*[0-9])/;
-      if (values.password != "admin"){
+    
+      if (values.password !== "admin"){
         errors.password = "wrong password";
       }
       else if (!values.password) {
