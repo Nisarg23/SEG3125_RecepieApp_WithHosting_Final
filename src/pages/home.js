@@ -1,5 +1,5 @@
 import React, { useState }  from 'react';
-import { IntlProvider, FormattedMessage, FormattedDate } from 'react-intl';
+import { IntlProvider, FormattedMessage } from 'react-intl';
 
 const message = {
   en: {

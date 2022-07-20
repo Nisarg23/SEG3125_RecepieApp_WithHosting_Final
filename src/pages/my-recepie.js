@@ -117,7 +117,7 @@ const RecipeListContainer = styled.div`
 `;
 
 const MyRecepie = () => {
-  const [searchQuery, updateSearchQuery] = useState("");
+
   const [recipeList, updateRecipeList] = useState([]);
   const [timeoutId, updateTimeoutId] = useState();
   const fetchData = async (searchString) => {
