@@ -129,7 +129,6 @@ const MyRecepie = () => {
 
   const onTextChange = (e) => {
     clearTimeout(timeoutId);
-    updateSearchQuery(e.target.value);
     const timeout = setTimeout(() => fetchData(e.target.value), 500);
     updateTimeoutId(timeout);
   };
