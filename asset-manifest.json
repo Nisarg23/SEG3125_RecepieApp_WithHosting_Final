@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SEG3125_RecepieApp_WithHosting_Final/static/css/main.6643539f.chunk.css",
+    "main.js": "/SEG3125_RecepieApp_WithHosting_Final/static/js/main.7cf8a0da.chunk.js",
+    "main.js.map": "/SEG3125_RecepieApp_WithHosting_Final/static/js/main.7cf8a0da.chunk.js.map",
+    "runtime-main.js": "/SEG3125_RecepieApp_WithHosting_Final/static/js/runtime-main.46a95650.js",
+    "runtime-main.js.map": "/SEG3125_RecepieApp_WithHosting_Final/static/js/runtime-main.46a95650.js.map",
+    "static/js/2.1bdbc820.chunk.js": "/SEG3125_RecepieApp_WithHosting_Final/static/js/2.1bdbc820.chunk.js",
+    "static/js/2.1bdbc820.chunk.js.map": "/SEG3125_RecepieApp_WithHosting_Final/static/js/2.1bdbc820.chunk.js.map",
+    "index.html": "/SEG3125_RecepieApp_WithHosting_Final/index.html",
+    "precache-manifest.57fb35cbd09af538e42c8e9535c928f6.js": "/SEG3125_RecepieApp_WithHosting_Final/precache-manifest.57fb35cbd09af538e42c8e9535c928f6.js",
+    "service-worker.js": "/SEG3125_RecepieApp_WithHosting_Final/service-worker.js",
+    "static/css/main.6643539f.chunk.css.map": "/SEG3125_RecepieApp_WithHosting_Final/static/css/main.6643539f.chunk.css.map",
+    "static/js/2.1bdbc820.chunk.js.LICENSE.txt": "/SEG3125_RecepieApp_WithHosting_Final/static/js/2.1bdbc820.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/SEG3125_RecepieApp_WithHosting_Final/static/media/background.32466b5c.jpg",
+    "static/media/flour.png": "/SEG3125_RecepieApp_WithHosting_Final/static/media/flour.ad724c4e.png",
+    "static/media/logo.svg": "/SEG3125_RecepieApp_WithHosting_Final/static/media/logo.1185e868.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46a95650.js",
+    "static/js/2.1bdbc820.chunk.js",
+    "static/css/main.6643539f.chunk.css",
+    "static/js/main.7cf8a0da.chunk.js"
+  ]
+}
