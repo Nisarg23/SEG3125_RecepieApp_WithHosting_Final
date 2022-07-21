@@ -31,22 +31,23 @@ const Login = () => {
     //********Handling validation messages yourself*******/
     validate={values => {
       let errors = {};
-      if (values.email !== "admin@admin.com"){
-        errors.email = "wrong email";
-      }
-      else if (!values.email) {
+      if (!values.email) {
         errors.email = "Required";
       } else if (!EmailValidator.validate(values.email)) {
         errors.email = "Invalid email address";
       }
+      else if (values.email !== "admin@admin.com"){
+        errors.email = "wrong email";
+      }
 
     
-      if (values.password !== "admin"){
-        errors.password = "wrong password";
-      }
-      else if (!values.password) {
+    
+       if (!values.password) {
         errors.password = "Required";
       } 
+      else if (values.password !== "admin"){
+        errors.password = "wrong password";
+      }
 
       return errors;
     }}
