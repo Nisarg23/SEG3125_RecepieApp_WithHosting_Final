@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ceec2462c6f6c2fec430868ed2b754d4",
+    "revision": "e9a7c67d5590dd9be119d656bb6ae42c",
     "url": "/SEG3125_RecepieApp_WithHosting_Final/index.html"
   },
   {
-    "revision": "fc017681a9118f32dbe9",
+    "revision": "86c08b73e9c9c11614d3",
     "url": "/SEG3125_RecepieApp_WithHosting_Final/static/css/main.6643539f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SEG3125_RecepieApp_WithHosting_Final/static/js/2.2160006c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fc017681a9118f32dbe9",
-    "url": "/SEG3125_RecepieApp_WithHosting_Final/static/js/main.08579dd8.chunk.js"
+    "revision": "86c08b73e9c9c11614d3",
+    "url": "/SEG3125_RecepieApp_WithHosting_Final/static/js/main.774835cf.chunk.js"
   },
   {
     "revision": "dbdcb51f22cfb50b8f11",
